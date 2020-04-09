@@ -6,7 +6,7 @@ const authMiddleware = require("./middleware/auth");
 const errorMiddleware = require("./middleware/error");
 const authRouter = require('./routes/auth');
 const userRouter = require('./routes/users');
-const PORT = 4000;
+const PORT = 8080;
 const app = express();
 
 app.use(bodyParser.urlencoded({ extended: true}));
