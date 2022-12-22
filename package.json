@@ -14,7 +14,7 @@
     "expo-location": "^7.0.0",
     "expo-task-manager": "^7.0.0",
     "expokit": "^35.0.4",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "react": "16.8.3",
     "react-dom": "16.8.3",
